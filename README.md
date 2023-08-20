@@ -55,9 +55,13 @@ When it comes to applying CNNs in real life application, being able to explain t
 
 ## Screenshots
 
-![App Screenshot](Screenshot 2023-08-20 200651.png)
+![App Screenshot](Emo_Det
+/Screenshot 2023-08-20 200651.png
+)
 
-![App Screenshot](Screenshot 2023-08-20 200839.png)
+![App Screenshot](Emo_Det
+/Screenshot 2023-08-20 200651.png
+)
 
 
 
