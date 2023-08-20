@@ -55,14 +55,9 @@ When it comes to applying CNNs in real life application, being able to explain t
 
 ## Screenshots
 
-![App Screenshot]([Emo_Det
-/Screenshot 2023-08-20 200651.png](https://github.com/Kamalesh-Dran/Emo_Det/blob/main/Screenshot%202023-08-20%20200651.png)https://github.com/Kamalesh-Dran/Emo_Det/blob/main/Screenshot%202023-08-20%20200651.png
-)
+![App Screenshot](https://github.com/Kamalesh-Dran/Emo_Det/blob/main/Screenshot%202023-08-20%20200651.png)
 
-![App Screenshot]([Emo_Det
-/Screenshot 2023-08-20 200651.png](https://github.com/Kamalesh-Dran/Emo_Det/blob/main/Screenshot%202023-08-20%20200839.png)https://github.com/Kamalesh-Dran/Emo_Det/blob/main/Screenshot%202023-08-20%20200839.png
-)
-
+![App Screenshot](https://github.com/Kamalesh-Dran/Emo_Det/blob/main/Screenshot%202023-08-20%20200839.png)
 
 
 
